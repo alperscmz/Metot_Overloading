@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\Metot_Overloading.exe
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\Metot_Overloading.deps.json
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\Metot_Overloading.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\Metot_Overloading.dll
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\ref\Metot_Overloading.dll
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\bin\Debug\net6.0\Metot_Overloading.pdb
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.dll
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\ref\Metot_Overloading.dll
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.pdb
+C:\Users\alper\Desktop\Pratikler\Metot_Overloading\obj\Debug\net6.0\Metot_Overloading.genruntimeconfig.cache
